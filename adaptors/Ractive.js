@@ -15,7 +15,7 @@
 //       el: 'two',
 //       template: templateTwo,
 //       data: ractiveOne,
-//       adaptors: [ 'Ractive' ]
+//       adapt: [ 'Ractive' ]
 //     });
 //
 // Changes to either Ractive will be reflected in both.
